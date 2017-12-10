@@ -32,7 +32,7 @@ function greet(name) {
 /* Create an array called `dataTypes` with atleast 1 of every data type;
  * (there are 6 different data types);
  */
-const dataTypes = ['one', 2, true, null, undefined, myObj {}];
+const dataTypes = ['three', 2, true, null, undefined, myObj{}];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
