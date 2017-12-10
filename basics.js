@@ -39,7 +39,7 @@ const dataTypes = ['one', 2, true, null, undefined, myObj{}];
  * It should also have a name attribute with the value of 'Spot'
  */
 const dog = {
-  name: 'Spot',
+  name: 'Phil',
   bark() {
     alert('bark!');
   },
